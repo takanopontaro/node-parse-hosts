@@ -1,0 +1,3 @@
+
+main.coffee,41
+exports.get = (path) ->exports.get6,55
