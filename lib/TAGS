@@ -1,3 +1,5 @@
 
-main.coffee,41
-exports.get = (path) ->exports.get6,55
+main.coffee,107
+get = (path) ->get6,55
+exports.get = ->exports.get17,417
+exports.optimize = ->exports.optimize20,463

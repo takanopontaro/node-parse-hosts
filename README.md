@@ -27,6 +27,10 @@ ph.get();
 
 // you can specify the location of the hosts file.
 ph.get('/path/to/hosts');
+
+// if you want to get "127.0.0.1" mapped to "localhost" regardless of whether
+// it's in the hosts file, use optimize(). this method ensures generating it.
+ph.optimize();
 ```
 
 
